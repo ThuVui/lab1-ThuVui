@@ -4,11 +4,11 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên:
-- Mã sinh viên:
-- Nhóm:
-- Vai trò dự kiến trong nhóm:
-- Hệ điều hành:
+- Họ tên: Nguyễn Thị Thu Vui
+- Mã sinh viên: 1771020768
+- Nhóm: 3b
+- Vai trò dự kiến trong nhóm: 
+- Hệ điều hành: Window
 - Ghi chú:
 
 ## Các file minh chứng nên có
